@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Chatbot de Voz com LLM e Integração de Áudio
 
 ## 1. Visão Geral
@@ -37,7 +37,7 @@ Usuário (voz) → SpeechRecognition → LLM (Groq / Llama 3.3) → gTTS → Pyg
 ├── requirements.txt          # Dependências do projeto
 ├── README.md                 # Documentação do projeto
 └── tests/
-    └── exemplos_teste.txt    # Exemplos de entrada e saída (testes de usuário)
+    └── exemplos    # Exemplos de entrada e saída (testes de usuário)
 ```
 
 ## 4. Instalação e Execução
@@ -103,15 +103,7 @@ Resultados:
 
 - Código modular e compatível com sistemas baseados em CPU  
 - Dependências atualizadas para compatibilidade com o ambiente Python 3.12+  
-- Estrutura pronta para integração com interfaces gráficas (Streamlit, Flask ou Gradio)
-
-## 8. Validação de Negócio
-
-O modelo demonstra a viabilidade de **assistentes de voz inteligentes** para contextos corporativos e bancários, oferecendo:
-- Atendimento automatizado com linguagem natural  
-- Acessibilidade aprimorada (interação por voz)  
-- Redução de custos operacionais  
-- Experiência de usuário mais fluida e inclusiva  
+- Estrutura pronta para integração com interfaces gráficas.
 
 ## 9. Próximos Passos
 
@@ -124,8 +116,5 @@ O modelo demonstra a viabilidade de **assistentes de voz inteligentes** para con
 
 **João Víctor Leite**  
 Projeto desenvolvido para fins de demonstração técnica e conceitual.  
-Contato: [seu.email@exemplo.com]  
-GitHub: [https://github.com/seu-usuario](https://github.com/seu-usuario)
-=======
-# Desafio_ChatBot
->>>>>>> 8d0d35af360987b4fead92f4ae1a401dcef952a8
+Contato: [joaovictorrsl94@gmail.com]  
+GitHub: [(https://github.com/joaorsleite/DesafioChatBot)]
