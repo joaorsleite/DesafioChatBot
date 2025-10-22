@@ -36,8 +36,6 @@ Usuário (voz) → SpeechRecognition → LLM (Groq / Llama 3.3) → gTTS → Pyg
 ├── app.py                    # Código principal do chatbot
 ├── requirements.txt          # Dependências do projeto
 ├── README.md                 # Documentação do projeto
-└── tests/
-    └── exemplos    # Exemplos de entrada e saída (testes de usuário)
 ```
 
 ## 4. Instalação e Execução
@@ -91,7 +89,6 @@ Usuário (voz) → SpeechRecognition → LLM (Groq / Llama 3.3) → gTTS → Pyg
 
 Foram realizados testes com diferentes tipos de entrada de voz:
 - Perguntas diretas: “Qual é a capital da França?”  
-- Perguntas contextuais: “E da Itália?”  
 - Interações com hesitação ou ruído: “Floren... digo... Roma”
 
 Resultados:
