@@ -31,7 +31,7 @@ Usuário (voz) → SpeechRecognition → LLM (Groq / Llama 3.3) → gTTS → Pyg
 ## 3. Estrutura do Projeto
 
 ```
-📁 chatbot-voz-groq/
+📁 chatbot-voz
 │
 ├── app.py                    # Código principal do chatbot
 ├── requirements.txt          # Dependências do projeto
@@ -52,8 +52,8 @@ Usuário (voz) → SpeechRecognition → LLM (Groq / Llama 3.3) → gTTS → Pyg
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/seu-usuario/chatbot-voz-groq.git
-   cd chatbot-voz-groq
+   git clone https://github.com/joaorsleite/DesafioChatBot.git
+   cd chatbot-voz
    ```
 
 2. **Criar e ativar um ambiente virtual:**
@@ -116,5 +116,5 @@ Resultados:
 
 **João Víctor Leite**  
 Projeto desenvolvido para fins de demonstração técnica e conceitual.  
-Contato: [joaovictorrsl94@gmail.com]  
-GitHub: [(https://github.com/joaorsleite/DesafioChatBot)]
+Contato: joaovictorrsl94@gmail.com
+GitHub: https://github.com/joaorsleite/DesafioChatBot
