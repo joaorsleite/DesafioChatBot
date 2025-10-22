@@ -105,7 +105,7 @@ Resultados:
 ## 9. Próximos Passos
 
 - Adição de memória de contexto nas conversas  
-- Implementação de interface web com Streamlit  
+- Implementação de interface web  
 - Suporte multilíngue  
 - Integração com bancos de dados e APIs externas  
 
